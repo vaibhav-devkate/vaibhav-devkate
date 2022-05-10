@@ -61,7 +61,7 @@
 
 <h2 align="center">📈 Github Statistics </h2>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iamakkkhil&show_icons=true&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav4102&show_icons=true&theme=dark"/>
 <!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=iamakkkhil&theme=dark&ring=3B8D0C"/> -->
 </p>
 
