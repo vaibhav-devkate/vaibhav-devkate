@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/Vaibhav4102/Vaibhav4102/blob/main/Vaibhav4102.jpg" width="360"/>
 
 <br>
 <h3>
