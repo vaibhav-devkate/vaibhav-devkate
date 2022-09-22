@@ -7,7 +7,6 @@
   
 - 🔭 I’m currently a college student 
 - 🌱 I’m currently learning ML and WebD
-- 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Cpp and Python
 - 📫 How to reach me:devkatevaibhav04@gmail.com
 - ⚡ Fun fact:There are around 700 separate programming languages,
