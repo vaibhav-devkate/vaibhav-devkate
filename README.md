@@ -67,7 +67,7 @@
 <br> 
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
+   <img src="https://komarev.com/ghpvc/?username=Vaibhav4102&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>
 © 2022 GitHub, Inc.
 Terms
