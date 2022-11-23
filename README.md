@@ -6,8 +6,8 @@
 <h3>
   
 - 🔭 I’m currently a college student 
-- 🌱 I’m currently learning ML and WebD
-- 💬 Ask me about Cpp and Python
+- 🌱 I’m currently learning blockchain developement
+- 💬 Ask me about Ethereum and Tokens
 - 📫 How to reach me:devkatevaibhav04@gmail.com
 - ⚡ Fun fact:There are around 700 separate programming languages,
         The first programming language was called FORTRAN
@@ -36,10 +36,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" >&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >&nbsp;&nbsp;
