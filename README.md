@@ -61,10 +61,16 @@
 <!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> -->
 </p>
 
-<br> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&background=000000)](https://git.io/streak-stats)       br>    
-<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>                                                                                                              
+<p align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&background=000000"/>
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> -->
+</p
+<h2 align="center">📈 Github Statistics </h2>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=vision-friendly-dark"/>
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> -->
+</p>
+                                                                                                     
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue")
