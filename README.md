@@ -62,6 +62,9 @@
 </p>
 
 <br> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)       br>    
+<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>                                                                                                              
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue")
