@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
-<img align="center" alt="GIF" src="https://giphy.com/embed/cnzou4ydGM7GJZ7VTz" width="480" height="360"/>
+<img align="center" alt="GIF" src="https://giphy.com/embed/l4WuUJXSe4z6ebAym3" width="480" height="360"/>
 <img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width="330"/>
-
 <br>
 <h3>
-   
 - ⭕ I’m currently a college student 
 - 🔗 I’m currently learning Blockchain Technology
 - 💬 Ask me about Ethereum and Tokens
