@@ -11,7 +11,7 @@
 - 📫 How to reach me:devkatevaibhav04@gmail.com
 - ⚡ Fun fact:There are around 700 separate programming languages,
         The first programming language was called FORTRAN
-- https://github.com/Vaibhav4102
+- https://github.com/vaibhav-devkate
 </h3>
 <br />
 <br>
