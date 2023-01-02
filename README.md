@@ -74,5 +74,5 @@
 <div align="center">
 © 2023 GitHub, Inc.
 Terms
-Priv
+Privacy
 </div>
