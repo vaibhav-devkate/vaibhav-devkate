@@ -64,16 +64,15 @@
 
 </p
 
-  
                                                                                                      
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</div>
+
+
+<div align="center">
 © 2023 GitHub, Inc.
 Terms
 Priv
 </div>
-
