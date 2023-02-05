@@ -5,13 +5,13 @@
 <br>
 <div align="left" width=50%>
 <h3>   
-- ⭕ I’m currently a college student 
-- 🔗 I’m currently learning Blockchain Technology
-- 💬 Ask me about Ethereum and Tokens
-- 📧 How to reach me:devkatevaibhav04@gmail.com
+- ⭕ I’m currently a college student<br> 
+- 🔗 I’m currently learning Blockchain Technology<br> 
+- 💬 Ask me about Ethereum and Tokens<br> 
+- 📧 How to reach me:devkatevaibhav04@gmail.com<br> 
 - ⚡ Fun fact : There are around 700 separate programming languages,
-        The first programming language was called FORTRAN.
-- ♾️ https://github.com/vaibhav-devkate
+        The first programming language was called FORTRAN.<br> 
+- ♾️ https://github.com/vaibhav-devkate<br> 
 </h3>
 </div>
 <br>
