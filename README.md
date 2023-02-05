@@ -3,9 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width=50%/>
 <br>
-<div align="left" width=50%>
-<h3>
-    
+<div align="left" width=50%><h3>   
 - ⭕ I’m currently a college student 
 - 🔗 I’m currently learning Blockchain Technology
 - 💬 Ask me about Ethereum and Tokens
