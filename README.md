@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
 
-<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width="330"/>
+<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width=50%/>
 <br>
-<h3
+<div align="left" width=50%>
+<h3>
     
 - ⭕ I’m currently a college student 
 - 🔗 I’m currently learning Blockchain Technology
@@ -13,7 +14,7 @@
         The first programming language was called FORTRAN.
 - ♾️ https://github.com/vaibhav-devkate
 </h3>
-<br />
+</div>
 <br>
 
 <div align="center">
