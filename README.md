@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT Engineer from India</h3>
 
 <img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width=50%/>
-<br>
+
 <div align="left" width=50%>
 <h3>   
 - ⭕ I’m currently a college student<br> 
