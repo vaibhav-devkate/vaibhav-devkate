@@ -64,7 +64,7 @@
  </p>
     
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=dark)](https://github.com/vaibhav-devkate/github-readme-stats#center)                                                                                                                      
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=dark#center)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
                                                                                                                           
 
                                                                                            
