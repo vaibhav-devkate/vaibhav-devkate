@@ -64,15 +64,10 @@
  </p>
                                                                                                           
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&show_icons=true&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&show_icons=true&theme=dark&layout=compact"/>
   
 </p>                                                                                                        
     
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=dark#center)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
-                                                                                                                          
-
-                                                                                           
 
 <div align="center">                
     <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue">
