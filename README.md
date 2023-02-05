@@ -63,8 +63,8 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> 
  </p>
     
-   <P>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact)](https://github.com/vaibhav-devkate/github-readme-stats)               </p>                                                                                                       
+   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
                                                                                                           
 
                                                                                                    
