@@ -61,18 +61,23 @@
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> 
+ </p>
+    
+   <P>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact)](https://github.com/vaibhav-devkate/github-readme-stats)               </p>                                                                                                       
+                                                                                                          
 
-</p
-
-                                                                                                     
+                                                                                                   
 
 <div align="center">                
-    <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue")
+    <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue">
 </div>
 
-
-<div align="center">
+ <div align="center">
 © 2023 GitHub, Inc.
 Terms
 Privacy
-</div>
+<br>                    
+                    
+</div> 
+
