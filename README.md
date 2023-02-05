@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
 
-<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg" width=50%/>
-
 <div align="left" width=50%>
 <h3>   
 - ⭕ I’m currently a college student<br> 
@@ -14,6 +12,10 @@
 - ♾️ https://github.com/vaibhav-devkate<br> 
 </h3>
 </div>
+<div align="right"  width=50%>
+<img  alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg"/>
+</div>
+
 <br>
 
 <div align="center">
