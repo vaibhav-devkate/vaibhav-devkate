@@ -63,12 +63,10 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> 
  </p>
     
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
-                                                                                                          
-<a href="https://github.com/vaibhav-devkate/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/top-langs/?username=vaibhav-devkate&repo=github-readme-stats&layout=compact&theme=dark&ring=3B8D0C" />
-</a>
+  <p align="center"> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact&theme=dark)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
+                   </p>                                                                                                       
+
                                                                                            
 
 <div align="center">                
