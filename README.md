@@ -67,12 +67,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&layout=compact)](https://github.com/vaibhav-devkate/github-readme-stats)                                                                                                                      
                                                                                                           
 <a href="https://github.com/vaibhav-devkate/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-devkate&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/top-langs/?username=vaibhav-devkate&repo=github-readme-stats&layout=compact&theme=dark&ring=3B8D0C" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-                                                                                                   
+                                                                                           
 
 <div align="center">                
     <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue">
