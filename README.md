@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,100:00d4ff&height=300&section=header&text=Hi%20 there,%20I'm%20Vaibhav%20Devkate%20👋&fontSize=40&desc=A%20passionate%20IT%20Engineer%20from%20India&descSize=22&animation=twinkling&fontColor=FFFFFF" />
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
 
