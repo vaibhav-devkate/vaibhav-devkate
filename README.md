@@ -28,7 +28,7 @@
 <p align="center">~ Muhammad Ali</p> -->
 
 
-<h2 align="center">♨️ Tech Stack</h2>
+<h2 align="center">♨️ Tech Stack ♨️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >&nbsp;&nbsp;
