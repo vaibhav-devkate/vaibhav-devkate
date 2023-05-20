@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
+<br>
+ <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
 
 
 <div align="right"  width=50%>
@@ -62,7 +64,7 @@
    <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/github?theme=light" alt="vaibhav-devkate&#39;s GitHub | Stats"></a></p><br>
    <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/topics-over-time?theme=light" alt="vaibhav-devkate&#39;s GitHub | Topics"></a></p><br>
    <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/languages-over-time?theme=light" alt="vaibhav-devkate&#39;s GitHub | Languages Over Time"></a></p><br>
-   <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
+  
 
  <br>   
  <p align="center">
