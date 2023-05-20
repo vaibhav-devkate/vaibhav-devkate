@@ -58,7 +58,8 @@
 
 <h2 align="center">📈 Github Statistics </h2>
    <p align="center">
-   [![vaibhav-devkate's GitHub | Stats](https://stats.quine.sh/vaibhav-devkate/github?theme=light)](https://quine.sh) 
+  
+    <img src="https://stats.quine.sh/vaibhav-devkate/github?theme=light"/>                  
 </p>  
  <br>   
  <p align="center">
