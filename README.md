@@ -57,10 +57,13 @@
 
 
 <h2 align="center">📈 Github Statistics </h2>
-   <p align="center">
+ 
   
-   <p><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/github?theme=light" alt="vaibhav-devkate&#39;s GitHub | Stats"></a></p>            
-</p>  
+   <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/github?theme=light" alt="vaibhav-devkate&#39;s GitHub | Stats"></a></p><br>
+   <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/topics-over-time?theme=light" alt="vaibhav-devkate&#39;s GitHub | Topics"></a></p><br>
+   <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/languages-over-time?theme=light" alt="vaibhav-devkate&#39;s GitHub | Languages Over Time"></a></p><br>
+   <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
+
  <br>   
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&show_icons=true&theme=dark&layout=compact"/>  
