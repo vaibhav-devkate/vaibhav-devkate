@@ -79,8 +79,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C"/> 
  </p>
  <br>                                                                                                         
-  <p><img src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
-                                                                                                   
+
     
 
 <div align="center">                
