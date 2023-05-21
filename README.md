@@ -4,7 +4,7 @@
 <br>
  <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
 <br>
-<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/PngItem_1272225.png" width="300" />
+<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/1.gif" width="360" />
 
 <br>
 <h3>
