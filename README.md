@@ -4,7 +4,7 @@
 <br>
  <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
 <br>
-<img align="right" alt="GIF" src="https://gifdb.com/gif/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html?embed=true" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/PngItem_1272225.png" width="360"/>
 
 <br>
 <h3>
