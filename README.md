@@ -1,33 +1,27 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
-<h3 align="center">A passionate IT Engineer from India</h3>
+<h3 align="center">A passionate IT Engineer from India</h>
 <br>
+<hr>
  <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
 
 
-<div align="right"  width=50%>
-<img  alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/Vaibhav4102.jpg"/>
-</div>
-<div align="left" width=50%>
-<h3>   
-- ⭕ I’m currently a college student<br> 
-- 🔗 I’m currently learning Blockchain Technology<br> 
-- 💬 Ask me about Ethereum and Tokens<br> 
-- 📧 How to reach me:devkatevaibhav04@gmail.com<br> 
-- ⚡ Fun fact : There are around 700 separate programming languages,
-        The first programming language was called FORTRAN.<br> 
-- ♾️ https://github.com/vaibhav-devkate<br> 
-</h3>
-</div>
-    
 <br>
+<h3>
+- 🔭  I’m currently a college student.<br>      
+- 🌱  I’m currently learning Blockchain Technology.<br> 
+- 👯 I’m looking to collaborate on Full-Stack developement  Projects.<br>
+- 💬 Ask me about Ethereum and Tokens.<br>  
+- 📫 How to reach me: devkatevaibhav04@gmail.com<br>
+- ⚡ Fun fact: Ihere are around 700 separate programming languages, The first programming language was called FORTRAN.<br>
+</h3>
+
+<br>
+
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal">
 </div>
 
-
-<!-- <h3 align="center">Don't count the days, make the days count.</h3>
-<p align="center">~ Muhammad Ali</p> -->
 
 
 <h2 align="center">♨️ Tech Stack ♨️</h2>
@@ -43,6 +37,11 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" >&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" >&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >&nbsp;&nbsp;
+
 </p>
 
 
@@ -50,12 +49,16 @@
 <p align="center">
   <a target="_blank"href=https://www.linkedin.com/in/vaibhav-devkate"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:devkatevaibhav04@gmail.com?subject=Hello%20vaibhav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/vaibhavv.devkate/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br /> 
 <br />
-
+<div align="center">
+  <h3>Watch my contribution graph get eaten by snake 🐍</h3>
+  <img src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 <h2 align="center">📈 Github Statistics </h2>
