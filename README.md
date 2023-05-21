@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vaibhav Devkate 👋</h1>
 <h3 align="center">A passionate IT Engineer from India</h>
 <br>
-<hr>
+
  <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
 
 
