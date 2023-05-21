@@ -3,8 +3,8 @@
 <br>
 <br>
  <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/vaibhav-devkate/web3?theme=light" alt="vaibhav-devkate&#39;s Web3 | Identity"></a></p>
-
-
+<br>
+<img align="right" alt="GIF" src="https://github.com/iamakkkhil/iamakkkhil/blob/master/coding_2.gif" width="360"/>
 <br>
 <h3>
 - 🔭  I’m currently a college student.<br>      
