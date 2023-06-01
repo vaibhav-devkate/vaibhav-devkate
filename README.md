@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/1 .gif" width="300" />
+<img align="center" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/1 .gif" width="500" />
 
 <br>
 <h3>
