@@ -7,15 +7,6 @@
 
 <!--<img align="center" alt="GIF" src="https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/1 .gif" width="500" />-->
 
-//<br>
-///<h3>
-//- 🔭  I’m currently a college student.<br>      
-//- 🌱  I’m currently learning Blockchain Technology.<br> 
-//- 👯 I’m looking to collaborate on Full-Stack developement  Projects.<br>
-//- 💬 Ask me about Ethereum and Tokens.<br>  
-//- 📫 How to reach me: devkatevaibhav04@gmail.com<br>
-//- ⚡ Fun fact: Ihere are around 700 separate programming languages, The first programming language was called FORTRAN.<br>
-//</h3>
 
 <br>
 
