@@ -1,55 +1,59 @@
-# Hi there, I'm Vaibhav Devkate 👋
-### A passionate IT Engineer
+# Vaibhav Devkate
 
-<!--
-![GIF](https://github.com/vaibhav-devkate/vaibhav-devkate/blob/main/1 .gif)
--->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Architecting+Scalable+Systems;Performance+Optimization+Expert" alt="Typing SVG" />
+</div>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+---
 
-## 🛠  Technologies and tools
+### 🚀 About Me
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00A300?style=for-the-badge&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D7B8D?style=for-the-badge&logo=prisma&logoColor=white)
+I am a results-driven **Senior Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
 
-## 📫 Reach out to me on
+- 🛠️ Currently architecting production-grade backends and high-scale boilerplates.
+- 💡 Expert in **Hexagonal Architecture**, **Microservices**, and **Performance Optimization**.
+- 🎓 Continuous learner, exploring the latest in **Web3**, **DevOps**, and **System Design**.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-devkate)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:devkatevaibhav04@gmail.com?subject=Hello%20vaibhav,%20From%20Github)
-[![Instagram](https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/vaibhavv.devkate/)
+---
 
-## 📈 Github Statistics
+### 🛠️ Technical Expertise
 
-[![Stats](https://stats.quine.sh/vaibhav-devkate/github?theme=light)](https://quine.sh)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-devkate&show_icons=true&theme=dark&layout=compact)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D7B8D?style=flat-square&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav-devkate&show_icons=true&theme=dark)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhav-devkate&theme=dark&ring=3B8D0C)
+---
 
-[![Topics Over Time](https://stats.quine.sh/vaibhav-devkate/topics-over-time?theme=light)](https://quine.sh)
+### 📫 Connect with Me
 
-[![Languages Over Time](https://stats.quine.sh/vaibhav-devkate/languages-over-time?theme=light)](https://quine.sh)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=blue)
+<a href="https://www.linkedin.com/in/vaibhav-devkate">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:devkatevaibhav04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/vaibhavv.devkate/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-© 2023 GitHub, Inc. Terms Privacy
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=3178C6" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</div>
