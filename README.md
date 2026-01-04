@@ -1,14 +1,14 @@
 # Vaibhav Devkate
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Architecting+Scalable+Systems;Performance+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Architecting+Scalable+Systems;Performance+Optimization" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a results-driven **Senior Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
+I am a results-driven ** Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
 
 - 🛠️ Currently architecting production-grade backends and high-scale boilerplates.
 - 💡 Expert in **System Architecture**, **Microservices**, and **Performance Optimization**.
