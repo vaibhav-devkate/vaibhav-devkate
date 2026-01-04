@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a results-driven ** Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
+I am a results-driven **Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
 
 - 🛠️ Currently architecting production-grade backends and high-scale boilerplates.
 - 💡 Expert in **System Architecture**, **Microservices**, and **Performance Optimization**.
