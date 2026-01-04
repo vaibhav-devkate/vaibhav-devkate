@@ -42,10 +42,6 @@ I am a results-driven **Senior Software Engineer** with a passion for building h
 <a href="mailto:devkatevaibhav04@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.instagram.com/vaibhavv.devkate/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=vaibhav-devkate&label=PROFILE+VIEWS&style=flat-square&color=3178C6" alt="Profile Views" />
