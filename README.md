@@ -1,7 +1,7 @@
 # Vaibhav Devkate
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Architecting+Scalable+Systems;Performance+Optimization+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Architecting+Scalable+Systems;Performance+Optimization" alt="Typing SVG" />
 </div>
 
 ---
