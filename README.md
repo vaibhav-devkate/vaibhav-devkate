@@ -11,7 +11,7 @@
 I am a results-driven **Senior Software Engineer** with a passion for building high-performance, scalable systems. With a deep focus on **Node.js**, **TypeScript**, and **Modern Web Architectures**, I specialize in transforming complex requirements into robust, maintainable code.
 
 - 🛠️ Currently architecting production-grade backends and high-scale boilerplates.
-- 💡 Expert in **Hexagonal Architecture**, **Microservices**, and **Performance Optimization**.
+- 💡 Expert in **System Architecture**, **Microservices**, and **Performance Optimization**.
 - 🎓 Continuous learner, exploring the latest in **Web3**, **DevOps**, and **System Design**.
 
 ---
